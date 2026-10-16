@@ -1,0 +1,17 @@
+# QGIS / GeoPackage geçici dosyaları
+*.gpkg-wal
+*.gpkg-shm
+*.qgz~
+*.qgs~
+*.bak
+.qgis-*
+
+# Ham ve kullanılmayan veriler
+map.osm
+natural_wood.gpkg
+ekran_goruntuleri/
+
+# Sistem dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
